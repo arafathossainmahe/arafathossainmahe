@@ -4,7 +4,7 @@
 #### I am Flutter Developer
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Enthusiastic Flutter developer with a strong passion for creating elegant and functional mobile applications. Proficient in the basics of Flutter framework, I am dedicated to expanding my skill set and contributing to innovative app development projects. Open to collaboration and eager to learn from experienced professionals in the field.
 
 Skills: Flutter , Dart, C , C++
 
